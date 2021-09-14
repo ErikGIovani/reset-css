@@ -68,6 +68,7 @@ h2 {
   }
   .icon {
     width: 40%;
+    margin-top: 16rem;
   }
   .buttons {
     flex-direction: column;
